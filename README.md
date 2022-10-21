@@ -44,9 +44,9 @@ No se requiere textos al ingresar valores (std::cout)
 
 #### Output Format
 ```cpp
-   6    6    6
-  18   18   18
-  36   36   36
+   6   12   18
+   9   18   27
+  12   24   36
 ```
 
 **Ejemplo #2**
@@ -68,12 +68,12 @@ No se requiere textos al ingresar valores (std::cout)
 ```
 #### Output Format
 ```cpp
-  115  115  115  115  115  115
-   81   81   81   81   81   81
-  190  190  190  190  190  190
-  163  163  163  163  163  163
-  111  111  111  111  111  111
-  103  103  103  103  103  103
+  115   86  123   97  134  105
+  111   81  131   90  117   99
+  169  119  190  125  187  135
+  149  148  139  163  146  159
+  100  118  105  128  111  122
+  100  120  102  114  104  103
 ```
 
 ### Pregunta #2 - Multiplicación de los menores (6 points)
